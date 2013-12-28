@@ -1,0 +1,36 @@
+C:\Users\School_Account\Documents\Visual Studio 2010\Projects\Kinect Programming\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MainWindow.baml
+C:\Users\School_Account\Documents\Visual Studio 2010\Projects\Kinect Programming\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MainWindow.g.cs
+C:\Users\School_Account\Documents\Visual Studio 2010\Projects\Kinect Programming\MyKinectTool_\MyKinectTool_\obj\x86\Debug\App.g.cs
+C:\Users\School_Account\Documents\Visual Studio 2010\Projects\Kinect Programming\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool__MarkupCompile.cache
+C:\Users\School_Account\Documents\Visual Studio 2010\Projects\Kinect Programming\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool_.g.resources
+C:\Users\School_Account\Documents\Visual Studio 2010\Projects\Kinect Programming\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool_.Properties.Resources.resources
+C:\Users\School_Account\Documents\Visual Studio 2010\Projects\Kinect Programming\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool_.csproj.GenerateResource.Cache
+C:\Users\School_Account\Documents\Visual Studio 2010\Projects\Kinect Programming\MyKinectTool_\MyKinectTool_\bin\Debug\MyKinectTool_.exe
+C:\Users\School_Account\Documents\Visual Studio 2010\Projects\Kinect Programming\MyKinectTool_\MyKinectTool_\bin\Debug\MyKinectTool_.pdb
+C:\Users\School_Account\Documents\Visual Studio 2010\Projects\Kinect Programming\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool_.exe
+C:\Users\School_Account\Documents\Visual Studio 2010\Projects\Kinect Programming\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool_.pdb
+C:\Users\School_Account\Documents\GitHub\kinect\private\1123032\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool_.exe
+C:\Users\School_Account\Documents\GitHub\kinect\private\1123032\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool_.pdb
+C:\Users\School_Account\Documents\GitHub\kinect\private\1123032\MyKinectTool_\MyKinectTool_\bin\Debug\MyKinectTool_.exe
+C:\Users\School_Account\Documents\GitHub\kinect\private\1123032\MyKinectTool_\MyKinectTool_\bin\Debug\MyKinectTool_.pdb
+C:\Users\School_Account\Documents\GitHub\kinect\private\1123032\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool_.csprojResolveAssemblyReference.cache
+C:\Users\School_Account\Documents\GitHub\kinect\private\1123032\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MainWindow.baml
+C:\Users\School_Account\Documents\GitHub\kinect\private\1123032\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MainWindow.g.cs
+C:\Users\School_Account\Documents\GitHub\kinect\private\1123032\MyKinectTool_\MyKinectTool_\obj\x86\Debug\App.g.cs
+C:\Users\School_Account\Documents\GitHub\kinect\private\1123032\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool__MarkupCompile.cache
+C:\Users\School_Account\Documents\GitHub\kinect\private\1123032\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool_.g.resources
+C:\Users\School_Account\Documents\GitHub\kinect\private\1123032\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool_.Properties.Resources.resources
+C:\Users\School_Account\Documents\GitHub\kinect\private\1123032\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool_.csproj.GenerateResource.Cache
+C:\Users\School_Account\Documents\Visual Studio 2010\Projects\Kinect Programming\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool_.csprojResolveAssemblyReference.cache
+C:\Users\School_Account\Documents\GitHub\Kinect_Programming\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool_.exe
+C:\Users\School_Account\Documents\GitHub\Kinect_Programming\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool_.pdb
+C:\Users\School_Account\Documents\GitHub\Kinect_Programming\MyKinectTool_\MyKinectTool_\bin\Debug\MyKinectTool_.exe
+C:\Users\School_Account\Documents\GitHub\Kinect_Programming\MyKinectTool_\MyKinectTool_\bin\Debug\MyKinectTool_.pdb
+C:\Users\School_Account\Documents\GitHub\Kinect_Programming\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool_.csprojResolveAssemblyReference.cache
+C:\Users\School_Account\Documents\GitHub\Kinect_Programming\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MainWindow.baml
+C:\Users\School_Account\Documents\GitHub\Kinect_Programming\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MainWindow.g.cs
+C:\Users\School_Account\Documents\GitHub\Kinect_Programming\MyKinectTool_\MyKinectTool_\obj\x86\Debug\App.g.cs
+C:\Users\School_Account\Documents\GitHub\Kinect_Programming\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool__MarkupCompile.cache
+C:\Users\School_Account\Documents\GitHub\Kinect_Programming\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool_.g.resources
+C:\Users\School_Account\Documents\GitHub\Kinect_Programming\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool_.Properties.Resources.resources
+C:\Users\School_Account\Documents\GitHub\Kinect_Programming\MyKinectTool_\MyKinectTool_\obj\x86\Debug\MyKinectTool_.csproj.GenerateResource.Cache
