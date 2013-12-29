@@ -50,7 +50,8 @@ namespace DaruMA_project
                         Math.Abs(prev_skel.Joints[JointType.HandRight].Position.Y - skel.Joints[JointType.HandRight].Position.Y) +
                         Math.Abs(prev_skel.Joints[JointType.HandRight].Position.Z - skel.Joints[JointType.HandRight].Position.Z);
 
-            if (HeadPos < SINGLE_JUDGE && LhandPos < SINGLE_JUDGE && RhandPos < SINGLE_JUDGE || HeadPos + LhandPos + RhandPos < TOTAL_JUDGE)
+            if (HeadPos < SINGLE_JUDGE && LhandPos < SINGLE_JUDGE && RhandPos < SINGLE_JUDGE || 
+                                                                        HeadPos + LhandPos + RhandPos < TOTAL_JUDGE)
             {
                 return true;
             }
