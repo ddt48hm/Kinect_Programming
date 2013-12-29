@@ -14,9 +14,6 @@ namespace DaruMA_project
         const double depMin = 1.5;// 手前ライン
         const double depMax = 3.0;// 奥行きライン
        
-        public CheckClass()
-        {
-        }
         /// <summary>
         /// シャトルランの判定をしポイントを返す関数
         /// </summary>
