@@ -64,7 +64,7 @@
 <ol>
 <li>「だるまさんが転んだ」の再生処理</li>
 <li>シャトルランの判定処理</li>
-<li>だるまさんが転んだの動いてしまったかの判定処理</li>
+<li>だるまさんが転んだの動いてしまったかの判定処理(動いちゃた判定)</li>
 </ol><h4>
 <a name="%E3%81%A0%E3%82%8B%E3%81%BE%E3%81%95%E3%82%93%E3%81%8C%E8%BB%A2%E3%82%93%E3%81%A0%E3%81%AE%E5%86%8D%E7%94%9F%E5%87%A6%E7%90%86" class="anchor" href="#%E3%81%A0%E3%82%8B%E3%81%BE%E3%81%95%E3%82%93%E3%81%8C%E8%BB%A2%E3%82%93%E3%81%A0%E3%81%AE%E5%86%8D%E7%94%9F%E5%87%A6%E7%90%86"><span class="octicon octicon-link"></span></a>「だるまさんが転んだ」の再生処理</h4>
 
@@ -85,6 +85,13 @@ SoundPlayerを使用して音声の再生を行っている。PlaySound()とStop
 上図のaddPoint()はプレイヤーの骨格情報sklSRと、プレイヤーのポイントcounterSRと、進行方向の情報flagSRを引数とし、
 進行方向による条件分岐にプレイヤーの骨格情報がポイントを加算するのにふさわしいかどうかをチェックする関数である。
 changeDir()も同じ条件で進行方向を反転するかどうかをチェックする関数となっている。</p>
+
+<h4>
+<a name="%E5%8B%95%E3%81%84%E3%81%A1%E3%82%83%E3%81%A3%E3%81%9F%E5%88%A4%E5%AE%9A%E3%81%AE%E5%87%A6%E7%90%86" class="anchor" href="#%E5%8B%95%E3%81%84%E3%81%A1%E3%82%83%E3%81%A3%E3%81%9F%E5%88%A4%E5%AE%9A%E3%81%AE%E5%87%A6%E7%90%86"><span class="octicon octicon-link"></span></a>動いちゃった判定の処理</h4>
+
+<p>動いてはいけないときに動いてしまったときの処理は<a href="http://bit.ly/19tSCPX">JudgeClass.cs</a>で記述している。
+この処理で一番大事な処理が下図のJudge_Skel()関数である。<br><img src="https://github.com/HisatakaSuzuki/Kinect_Programming/blob/master/images/prog3.png?raw=true" alt="Judge_Skel"><br>
+この関数を呼び出すことで、頭と両手の骨格情報と保存した骨格情報の差異でプレイヤーが動いたかどうかを判定している。</p>
 
 <h3>
 <a name="%E9%81%8A%E3%81%B3%E6%96%B9%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB" class="anchor" href="#%E9%81%8A%E3%81%B3%E6%96%B9%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB"><span class="octicon octicon-link"></span></a>遊び方マニュアル</h3>
@@ -112,8 +119,18 @@ changeDir()も同じ条件で進行方向を反転するかどうかをチェッ
 </ul><h3>
 <a name="%E7%99%BA%E8%A1%A8" class="anchor" href="#%E7%99%BA%E8%A1%A8"><span class="octicon octicon-link"></span></a>発表</h3>
 
+<p>画面を見ないでも遊べる設計にするために、当初はプレイヤーの方向転換のときに決まった音声で知らせる仕様にする予定でしたが、発表には間に合わなかったのでテープで線を引くことで代用した。
+発表時には1人プレイで問題なく動いたが、テストが甘かったので判定が厳しすぎてしまった。</p>
+
 <h3>
 <a name="%E5%8F%8D%E7%9C%81" class="anchor" href="#%E5%8F%8D%E7%9C%81"><span class="octicon octicon-link"></span></a>反省</h3>
+
+<ul>
+<li>ゲームデザインがうまくできていなかった。<br>
+　  ┗プレイに終わる区切りがない(ゲームオーバーになるしかない)</li>
+<li>結合に苦戦してしまった。<br>
+┗変数の定義や、必要な動作などをしっかり決める前に各々で作業に入ってしまった。</li>
+</ul>
       </section>
       <footer>
         <p><small>Hosted on <a href="http://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
