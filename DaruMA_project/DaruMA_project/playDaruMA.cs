@@ -33,11 +33,6 @@ namespace DaruMA_project
             //非同期再生する
             player.Play();
 
-            //次のようにすると、ループ再生される
-            //player.PlayLooping();
-
-            //次のようにすると、最後まで再生し終えるまで待機する
-            //player.PlaySync();
         }
 
         //再生されている音を止める
@@ -47,8 +42,6 @@ namespace DaruMA_project
             {
                 player.Stop();
                 player.Dispose();
-                //player.controls.stop();
-                //player = null;
             }
         }
     }
