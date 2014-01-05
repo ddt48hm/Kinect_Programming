@@ -7,5 +7,5 @@ I'll upload Kinect Programming source codes here.
 プロジェクトで使用しているKinect SDK(及びMycrosoft.Kinect)の
 著作権はMycrosoft社にあります。
 
-それを含めたプロジェクト全体の著作権はここのプロジェクトに
+それを含めたプロジェクト全体の著作権は個々のプロジェクトに
 copyright.txtがあるので、それを確認してください。
